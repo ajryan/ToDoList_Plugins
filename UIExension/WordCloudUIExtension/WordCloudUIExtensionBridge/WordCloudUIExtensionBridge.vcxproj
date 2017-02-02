@@ -106,6 +106,7 @@ copy $(TargetPath) "$(SolutionDir)..\ToDoList_Dev\ToDoList\unicode_$(Configurati
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
+    <Reference Include="System.Core" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="WindowsBase" />
   </ItemGroup>

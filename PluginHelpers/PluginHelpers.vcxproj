@@ -132,6 +132,7 @@ copy $(TargetPath) "$(SolutionDir)..\ToDoList_Dev\ToDoList\unicode_$(Configurati
   </ItemGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />
+    <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
